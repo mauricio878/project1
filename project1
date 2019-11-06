@@ -1,0 +1,3 @@
+appendage = penis
+if input('enter your name') == 'jose':
+    print ('you are a ' + appendage)
