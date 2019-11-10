@@ -1,3 +1,4 @@
-appendage = penis
-if input('enter your name') == 'jose':
-    print ('you are a ' + appendage)
+name = input('what is your name?')
+file = open("dickandballs.txt", "w")
+file.write("8========D~~~~~  "+ name + "\n   ^ \n  / \ \n /   \ \n/     \ \n|  |  |\n|  |  |\n\  \  /\n \  \/\n /\  \ \n/  \  \ \n|  |  |\n|  |  |\n\     /\n \   /\n  \ /\n   v" + "\n u a bitch")
+file.close()
